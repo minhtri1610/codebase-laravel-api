@@ -24,3 +24,7 @@ Configure shortcuts directly in the [Makefile](file:///Users/IntelTri/WorkPlace/
 - `make logs` / `make ps` — View container logs / statuses.
 - `make migrate` / `make migrate-fresh` — Run / Refresh database migrations.
 - `make backend-shell` / `make frontend-shell` — Access backend / frontend CLI.
+
+## Documentation
+
+- **Backend API Design Patterns:** See [backend/README.md](./backend/README.md) for conventions on how to write API code in this repository.
